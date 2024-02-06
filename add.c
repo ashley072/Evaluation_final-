@@ -2,6 +2,8 @@
 
 int main() {
     int num1, num2, sum;
+    num1= 3;
+    num2= 2;
     
     printf("Enter the first number: ");
     scanf("%d", &num1);
